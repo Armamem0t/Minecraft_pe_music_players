@@ -3,7 +3,7 @@
 ## 利用button来实现音乐播放
 <pre><code class="language-bash"style="">
 "button@common.button": {
-   "sound_name": "random.click",/音乐名称
+   "sound_name": "random.click",//音乐名称
    "sound_volume": 1.0//音量大小
   }<span class="token operator"></code></pre>
   
