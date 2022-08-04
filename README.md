@@ -13,7 +13,7 @@
     "max_distance": 64.0,
     "sounds": [
       {
-        "name": "sounds/music/game/records/strad",//音乐文件路径 注只能OGG或FSB编码
+        "name": "sounds/music/game/records/strad",//音乐文件路径 注：只能OGG或FSB编码
         "stream": fasle,//是否可以不重叠播放
         "load_on_low_memory": true//使用低负载
       }
