@@ -1,5 +1,5 @@
 # 我的世界 基岩版 音乐播放器
-
+[查看代码](https://github.com/Armamem0t/Minecraft_pe_music_players/blob/main/code.json)
 ## 利用button来实现音乐播放
 <pre><code class="language-bash"style="">
 "button@common.button": {
