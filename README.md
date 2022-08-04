@@ -3,14 +3,13 @@
 ## 利用button来实现音乐播放
 <pre><code class="language-bash"style="">
 "button@common.button": {
-   "sound_name": "random.click",/
+   "sound_name": "random.click",/音乐名称
    "sound_volume": 1.0//音量大小
   }<span class="token operator"></code></pre>
   
   ## sound_definitions.json
   
   <pre><code class="language-bash"style="">"record.strad"/*音乐名称*/: {
-    "max_distance": 64.0,
     "sounds": [
       {
         "name": "sounds/music/game/records/strad",//音乐文件路径 注：只能OGG或FSB编码
